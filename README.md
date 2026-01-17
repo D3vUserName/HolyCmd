@@ -22,3 +22,11 @@ language.json	       Selected language
 packages.json	       Installed packages manifest
 repositories.json	   Package repositories
 ```
+
+🌍 Internationalization
+Supported Languages
+
+- 🇺🇸 English (default)
+- 🇵🇱 Polish
+- 🇩🇪 German
+- 🇫🇷 French
