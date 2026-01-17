@@ -115,14 +115,3 @@ After starting, you can use:
 ## Development & Support
 
 Source code available on GitHub: [https://github.com/D3vUserName/HolyCMD](https://github.com/D3vUserName/HolyCMD)
-
-### How to contribute
-
-- Fork the repository
-- Add features, fixes
-- Test thoroughly
-- Create pull requests
-
-### Join the community
-
-[https://discord.gg/holycmd](https://discord.gg/holycmd)
