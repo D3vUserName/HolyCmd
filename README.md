@@ -13,7 +13,7 @@
 [![Discord](https://img.shields.io/badge/discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/holycmd)
 
 Configuration Files
-HolyCMD stores configuration in ~/.holycmd/:
+**HolyCMD stores configuration in ~/.holycmd/:**
 ```
 File	               Purpose
 aliases.json	       User-defined command aliases
@@ -22,11 +22,3 @@ language.json	       Selected language
 packages.json	       Installed packages manifest
 repositories.json	   Package repositories
 ```
-
-🌍 Internationalization
-Supported Languages
-
-- 🇺🇸 English (default)
-- 🇵🇱 Polish
-- 🇩🇪 German
-- 🇫🇷 French
