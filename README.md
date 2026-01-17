@@ -14,10 +14,11 @@
 
 Configuration Files
 HolyCMD stores configuration in ~/.holycmd/:
-
+```
 File	               Purpose
 aliases.json	       User-defined command aliases
 theme.json	         Current theme selection
 language.json	       Selected language
 packages.json	       Installed packages manifest
 repositories.json	   Package repositories
+```
