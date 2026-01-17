@@ -1,20 +1,15 @@
-HolyCMD 🚀
-<div align="center">
-https://raw.githubusercontent.com/D3vUserName/HolyCmd/main/assets/banner.png
+# HolyCMD 🚀
 
-A powerful, feature-rich terminal with package management, themes, and developer tools
+<!-- Jeśli chcesz użyć banera, najpierw dodaj obrazek do folderu 'assets/' w repozytorium, a następnie użyj tego linku: -->
+<!-- ![HolyCMD Banner](https://raw.githubusercontent.com/D3vUserName/HolyCmd/main/assets/banner.png) -->
 
-https://img.shields.io/badge/python-3.8%252B-blue?logo=python&logoColor=white
-https://img.shields.io/badge/platform-Windows%2520%257C%2520Linux%2520%257C%2520macOS-0066CC?logo=windowsterminal&logoColor=white
-https://img.shields.io/badge/license-Proprietary-8A2BE2
-https://img.shields.io/badge/code%2520style-black-000000.svg?logo=black
-https://img.shields.io/badge/discord-Join%2520Community-5865F2?logo=discord&logoColor=white
+**A powerful, feature-rich terminal with package management, themes, and developer tools**
 
-Quick Start •
-Features •
-Installation •
-Documentation
+<!-- POPRAWIONE ODZNAKI SHIELDS.IO -->
+[![Python Version](https://img.shields.io/badge/python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-0066CC?logo=windowsterminal&logoColor=white)](https://github.com/D3vUserName/HolyCmd)
+[![License](https://img.shields.io/badge/license-Proprietary-8A2BE2)](https://github.com/D3vUserName/HolyCmd/blob/main/LICENSE)
+[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg?logo=black)](https://github.com/psf/black)
+[![Discord](https://img.shields.io/badge/discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/holycmd)
 
-</div>
-
-HolyCMD is a next-generation terminal application that combines the power of traditional command-line interfaces with modern features, beautiful themes, and an integrated package management system. Built for developers, power users, and terminal enthusiasts.
+[Quick Start](#-quick-start) • [Features](#-features) • [Installation](#-installation) • [Documentation](#-documentation)
