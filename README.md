@@ -12,4 +12,12 @@
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg?logo=black)](https://github.com/psf/black)
 [![Discord](https://img.shields.io/badge/discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/holycmd)
 
-[Quick Start](#-quick-start) • [Features](#-features) • [Installation](#-installation) • [Documentation](#-documentation)
+Configuration Files
+HolyCMD stores configuration in ~/.holycmd/:
+
+File	               Purpose
+aliases.json	       User-defined command aliases
+theme.json	         Current theme selection
+language.json	       Selected language
+packages.json	       Installed packages manifest
+repositories.json	   Package repositories
