@@ -109,9 +109,3 @@ After starting, you can use:
 > which python
 > exit
 ```
-
----
-
-## Development & Support
-
-Source code available on GitHub: [https://github.com/D3vUserName/HolyCMD](https://github.com/D3vUserName/HolyCMD)
