@@ -1,6 +1,5 @@
 # HolyCMD 🚀
 
-<!-- If you want to use a banner, first add an image to the 'assets/' folder in your repository, then use this link: -->
 <!-- ![HolyCMD Banner](https://raw.githubusercontent.com/D3vUserName/HolyCmd/main/assets/banner.png) -->
 
 **A powerful, feature-rich terminal with package management, themes, and developer tools**
