@@ -75,7 +75,7 @@ languages:
     history_list: "Command history"
     git_branch: "Git branch"
     git_dirty: "*"
-    meta_prefix: "[HolyCMD] "
+    meta_prefix: " [HolyCMD] "
     status_ok: "✓"
     status_error: "✗"
     seconds: "s"
@@ -507,7 +507,7 @@ languages:
     history_list: "Historique des commandes"
     git_branch: "Branche Git"
     git_dirty: "*"
-    meta_prefix: "[HolyCMD] "
+    meta_prefix: " [HolyCMD] "
     status_ok: "✓"
     status_error: "✗"
     seconds: "s"
@@ -939,7 +939,7 @@ languages:
     history_list: "Befehlsverlauf"
     git_branch: "Git-Branch"
     git_dirty: "*"
-    meta_prefix: "[HolyCMD] "
+    meta_prefix: " [HolyCMD] "
     status_ok: "✓"
     status_error: "✗"
     seconds: "s"
@@ -1371,7 +1371,7 @@ languages:
     history_list: "Historia poleceń"
     git_branch: "Gałąź git"
     git_dirty: "*"
-    meta_prefix: "[HolyCMD] "
+    meta_prefix: " [HolyCMD] "
     status_ok: "✓"
     status_error: "✗"
     seconds: "s"
@@ -1726,6 +1726,7 @@ languages:
           class_e: "Klasa E (eksperymentalna)"
           rfc_1918: "RFC 1918: 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16"
           map: "🗺️ Mapa:"
+
 
 
 
