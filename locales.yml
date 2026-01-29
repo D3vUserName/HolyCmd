@@ -1,12 +1,3 @@
-version: "2.0"
-last_updated: "2025-01-28"
-author: "420username"
-description: "HolyCMD Translation System - Multi-language support for HolyCMD terminal"
-notes: |
-  Add new languages by copying an existing language section and translating all values.
-  Maintain consistent indentation (2 spaces per level).
-  Package-specific translations are nested under each language's 'packages' key.
-
 languages:
   en:
     prompt: "$ "
@@ -1735,6 +1726,7 @@ languages:
           class_e: "Klasa E (eksperymentalna)"
           rfc_1918: "RFC 1918: 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16"
           map: "🗺️ Mapa:"
+
 
 
 
